@@ -42,3 +42,36 @@ h1{
     text-align: center;
 color:#3D3A4C ;
 }
+
+
+
+ 
+h2{
+    text-align: center;
+    font-size: 35px;
+    padding: 50px;
+}
+.project-section{
+    width: 100%;
+    background-color: rgba(192, 192, 192, 0.3);
+}
+
+.project img{
+    width: 60%;
+    height: 55%;
+}
+
+.project{
+    width: 30%;
+    float: left;
+    margin-left: 10px;
+    padding: 1%;
+}
+
+.project-experience{
+    box-shadow: 2px 2px 40px gray;
+    border-radius: 7px;
+    height: 60%;
+    background-color: white;
+}
+ 
