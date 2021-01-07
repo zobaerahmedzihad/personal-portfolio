@@ -107,11 +107,12 @@ h2{
     padding-right: 40px;
     padding: 6px;
     padding: 10px;
+    margin-left: 50px;
 }
 .button-style{
     color: white;
     font-size: 20px;
-    margin-left: 550px;
+    margin-left: 500px;
     background-color: #e96844 ;
     border-radius: 5px;
     padding: 11px 20px;
