@@ -1,4 +1,7 @@
 
+
+
+/* First section start here. */
 body{
     margin: 0px;
     padding: 0px;
@@ -20,6 +23,11 @@ h1{
 }
 .half-width img{
     width: 100%;
+
+/* First section end here. */
+
+
+/*Second section start here. */
 }
 .text-color{
     color: #3D3A4C;
@@ -36,6 +44,12 @@ h1{
     color: white;
     border-radius: 5px;
     
+/* Third section start here.*/
+
+
+
+
+
 }
 .third-part{
     
@@ -121,4 +135,16 @@ h2{
     border-radius: 5px;
     padding: 11px 20px;
 
+}
+
+
+
+
+
+
+
+
+/* Start about me section.*/
+.about-me{
+    margin-top: 200px;
 }
