@@ -33,6 +33,7 @@ h1{
     background-color:  #e96844;
     padding: 5px 15px;
     color: white;
+    border-radius: 5px;
 }
 .third-part{
     height: 500px;
@@ -104,8 +105,15 @@ h2{
 .hero-text{
     color: white;
     padding-right: 40px;
-    
-    width: 400px;
     padding: 6px;
-    padding-left: 80px;
+    padding: 10px;
+}
+.button-style{
+    color: white;
+    font-size: 20px;
+    margin-left: 550px;
+    background-color: #e96844 ;
+    border-radius: 5px;
+    padding: 11px 20px;
+
 }
