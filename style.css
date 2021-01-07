@@ -16,6 +16,7 @@ h1{
     margin-left: 5%;
     padding-left: 2%;
     margin-top: 2%;
+    height: 700px;
 }
 .half-width img{
     width: 100%;
@@ -34,10 +35,13 @@ h1{
     padding: 5px 15px;
     color: white;
     border-radius: 5px;
+    
 }
 .third-part{
+    
     height: 500px;
     clear: both;
+    
 }
 .align{
     text-align: center;
@@ -99,7 +103,7 @@ h2{
     background-size: cover;
    margin-right: 230px;
    margin-left: 230px;
-   border-radius: 30px;
+   border-radius: 25px;
 
 }
 .hero-text{
