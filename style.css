@@ -89,10 +89,24 @@ h2{
  
 }
 
-#last-image{
-
-
-
+.forth-part{
+    background-image: url("image4.png");
+    background-color: #cccccc;
+    height: 180px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   margin-right: 230px;
+   margin-left: 230px;
+   border-radius: 30px;
 
 }
 
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
